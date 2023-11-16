@@ -1,9 +1,9 @@
 # Cryptosystem
-Random Shifts and OTP based Encryption and Decryption
+# Random Shifts and OTP based Encryption and Decryption
 
 Language Used: C 
 
-External Libraries: curl.h 
+External Libraries: curl.h
 
 Integrated APIs: Twilio 
 
