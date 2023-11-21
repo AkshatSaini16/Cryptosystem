@@ -1,4 +1,5 @@
-# Random Shifts and OTP based Encryption and Decryption
+## SecureFlex
+# A Encryption/Decryption System
 
 Language Used: C 
 
