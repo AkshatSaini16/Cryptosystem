@@ -1,5 +1,5 @@
-## SecureFlex
-# A Encryption/Decryption System
+# SecureFlex
+## A Encryption/Decryption System
 
 Language Used: C 
 
