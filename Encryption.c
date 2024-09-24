@@ -133,7 +133,7 @@ void key_creation(int random[],int size)
 
 void OTP()
 {
-	int OTP=(rand()%8998)+1000;
+	int OTP=(rand()%8999)+1000;
 	FILE *file;
 	file=fopen("OTP.txt","w");
 	
@@ -214,7 +214,7 @@ void print(int ascii[],int size)
 
 int main()
 {
-	clock_t start,end;
+	//clock_t start,end;
 	char message[2000];
 	printf("Enter the Message\n");
 	gets(message);
